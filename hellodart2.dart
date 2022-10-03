@@ -1,5 +1,5 @@
 /*
-Write a dart program to display following string on the console screen using 'void main()':
+Write a dart program to display following string on the console screen using 'void main()' return type:
 
 Hello, Dart Programming!
 
