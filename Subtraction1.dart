@@ -22,5 +22,5 @@ int findSubtraction(){
 main(){
 
   // calling function
-  print ("${findSubtraction()}");
+  print ("${findSubtraction()}"); // using interpolation
 }
