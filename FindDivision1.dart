@@ -13,10 +13,10 @@ int findDiv(){
   print ("Second number is : $num2");
 
   // calculating division
-  double division = num1.toDouble() / num2.toDouble();
+  double division = num1.toDouble() / num2.toDouble(); // type-casting or type conversion
 
   // printing division
-  print ("The division of $num1 and $num2 is : $division"); // type-cating or type conversion
+  print ("The division of $num1 and $num2 is : $division"); 
 
   return 0;
 }
